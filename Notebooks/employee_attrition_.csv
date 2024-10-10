@@ -1,0 +1,1030 @@
+EmployeeNumber,Gender,Age,Education,Department,JobRole,JobSatisfaction,DistanceFromHome,MonthlyIncome,YearsAtCompany,Attrition
+997,Male,50.0,2,Research & Development,Research Director,4,1.0,17399,5,No
+178,Male,36.0,2,Research & Development,Manufacturing Director,2,6.0,4941,3,No
+1780,Male,21.0,1,Sales,Sales Representative,2,7.0,2679,1,Yes
+644,Male,50.0,3,Human Resources,Manager,2,,18200,32,No
+1118,Male,52.0,4,Research & Development,Healthcare Representative,2,7.0,10445,8,No
+582,Male,33.0,1,Research & Development,Manager,3,15.0,13610,7,Yes
+1827,Female,47.0,3,Research & Development,Manufacturing Director,2,4.0,10333,22,No
+872,Male,22.0,2,Research & Development,Manufacturing Director,4,1.0,4775,2,No
+828,Male,,4,Research & Development,Research Scientist,3,2.0,4382,2,Yes
+1681,Female,33.0,3,Sales,Sales Executive,4,16.0,5368,6,No
+215,Male,40.0,4,Sales,Sales Executive,4,4.0,10855,12,No
+1371,Male,27.0,1,Sales,Sales Executive,4,2.0,5071,6,No
+2012,Male,40.0,4,Research & Development,Laboratory Technician,4,1.0,2406,1,No
+1096,Male,55.0,1,Research & Development,Manufacturing Director,2,2.0,10976,3,No
+1108,Male,33.0,3,Research & Development,Research Scientist,2,25.0,2313,2,Yes
+970,Male,37.0,4,Sales,Sales Executive,3,1.0,10609,14,Yes
+1779,Female,34.0,2,Sales,Sales Executive,4,,6029,2,No
+1280,Female,46.0,2,Sales,Manager,2,4.0,18789,11,No
+1582,Male,38.0,3,Sales,Sales Executive,2,14.0,9924,9,No
+1311,Female,30.0,3,Research & Development,Laboratory Technician,4,6.0,4627,9,No
+847,Male,34.0,2,Human Resources,Human Resources,4,,3737,3,No
+1658,Female,34.0,3,Research & Development,Research Scientist,2,,5433,11,No
+2036,Male,36.0,4,Sales,Sales Executive,4,15.0,5406,15,No
+2040,Female,,4,Human Resources,Human Resources,4,26.0,8837,9,No
+586,Male,,3,Research & Development,Healthcare Representative,3,16.0,7632,8,No
+1740,Male,40.0,4,Sales,Manager,2,7.0,19833,21,No
+128,Female,24.0,2,Sales,Sales Executive,3,,4999,3,No
+981,Male,53.0,2,Sales,Manager,3,2.0,14852,17,No
+1671,Male,32.0,3,Research & Development,Research Scientist,2,2.0,5470,9,No
+1504,Male,,2,Research & Development,Laboratory Technician,1,2.0,2561,0,Yes
+1501,Male,55.0,4,Research & Development,Healthcare Representative,3,4.0,4035,3,No
+548,Female,30.0,3,Research & Development,Manufacturing Director,4,2.0,6091,5,No
+848,Female,,2,Research & Development,Research Scientist,3,,2366,8,Yes
+811,Male,23.0,3,Research & Development,Laboratory Technician,1,6.0,1601,0,Yes
+211,Male,51.0,4,Research & Development,Manufacturing Director,3,7.0,6132,1,No
+827,Female,42.0,2,Research & Development,Manufacturing Director,4,1.0,6062,4,No
+856,Female,,1,Research & Development,Research Scientist,1,27.0,2559,6,No
+600,Male,,3,Sales,Sales Executive,3,1.0,4717,11,No
+701,Male,20.0,1,Research & Development,Research Scientist,3,10.0,1009,1,Yes
+1387,Male,,3,Sales,Sales Executive,1,26.0,4724,5,No
+1202,Female,29.0,1,Research & Development,Research Scientist,4,15.0,2168,5,No
+520,Male,43.0,3,Research & Development,Research Director,2,12.0,14336,25,No
+1180,Female,40.0,2,Research & Development,Research Scientist,4,26.0,4422,1,No
+1192,Female,29.0,1,Research & Development,Laboratory Technician,4,6.0,3131,10,No
+1863,Female,46.0,3,Sales,Sales Executive,1,,13225,19,No
+1792,Male,44.0,2,Research & Development,Research Scientist,2,1.0,2342,5,Yes
+1443,Female,47.0,4,Research & Development,Research Director,3,2.0,17169,20,No
+772,Male,32.0,4,Research & Development,Laboratory Technician,4,24.0,5309,10,No
+662,Female,38.0,1,Research & Development,Research Scientist,1,1.0,2619,0,No
+1352,Male,51.0,3,Human Resources,Manager,2,,14026,33,No
+422,Male,58.0,4,Research & Development,Healthcare Representative,3,1.0,5660,5,No
+620,Female,,3,Sales,Sales Executive,3,1.0,4859,5,No
+1465,Male,45.0,3,Research & Development,Manufacturing Director,4,29.0,9380,3,No
+762,Male,56.0,3,Research & Development,Healthcare Representative,4,9.0,11103,10,No
+1062,Female,37.0,3,Research & Development,Healthcare Representative,2,,4107,4,No
+1700,Male,37.0,4,Sales,Sales Executive,4,1.0,9525,6,No
+985,Male,39.0,5,Sales,Sales Executive,3,2.0,7880,8,No
+1182,Male,,3,Research & Development,Manufacturing Director,2,2.0,10274,7,No
+1070,Female,54.0,4,Sales,Sales Executive,3,2.0,10686,9,No
+1046,Female,32.0,4,Research & Development,Laboratory Technician,3,29.0,4025,8,No
+473,Female,48.0,1,Sales,Manager,3,29.0,12504,0,No
+998,Female,33.0,4,Research & Development,Healthcare Representative,2,1.0,5488,6,No
+163,Male,31.0,4,Sales,Sales Executive,3,6.0,6172,7,Yes
+244,Female,46.0,2,Sales,Sales Executive,1,1.0,10453,24,No
+393,Male,38.0,4,Research & Development,Healthcare Representative,4,23.0,5745,2,No
+1995,Male,38.0,4,Sales,Sales Executive,2,1.0,4440,15,No
+1706,Male,43.0,3,Sales,Sales Executive,4,2.0,7847,10,No
+403,Male,37.0,3,Research & Development,Research Scientist,4,9.0,2326,4,No
+445,Female,39.0,2,Sales,Sales Executive,3,,5238,1,Yes
+869,Male,,2,Human Resources,Human Resources,4,8.0,4936,5,No
+2049,Male,,4,Research & Development,Healthcare Representative,3,18.0,5689,10,No
+117,Male,30.0,3,Research & Development,Healthcare Representative,4,2.0,4152,11,No
+1307,Female,39.0,4,Research & Development,Manager,2,13.0,17123,19,No
+1866,Female,43.0,3,Research & Development,Manager,3,6.0,19392,16,No
+764,Female,27.0,3,Research & Development,Healthcare Representative,1,7.0,6811,7,No
+936,Female,42.0,2,Sales,Sales Executive,3,14.0,6244,5,No
+1916,Female,31.0,3,Research & Development,Laboratory Technician,3,4.0,3978,2,No
+932,Male,39.0,3,Research & Development,Laboratory Technician,1,6.0,2404,2,Yes
+1264,Female,29.0,3,Research & Development,Research Director,4,1.0,16124,7,No
+396,Female,49.0,4,Research & Development,Research Director,1,10.0,18665,3,No
+1961,Male,38.0,3,Sales,Sales Representative,1,1.0,2858,1,No
+2008,Male,,4,Research & Development,Research Scientist,3,9.0,5098,10,No
+468,Female,42.0,5,Research & Development,Research Director,4,23.0,15992,1,No
+1537,Female,31.0,3,Research & Development,Research Scientist,3,,4084,7,Yes
+1951,Male,34.0,4,Sales,Sales Executive,3,13.0,8628,8,No
+924,Male,36.0,1,Research & Development,Healthcare Representative,4,14.0,6586,16,No
+800,Male,27.0,1,Sales,Sales Executive,4,8.0,4342,4,No
+615,Male,40.0,3,Sales,Sales Executive,1,28.0,10932,1,No
+1535,Male,34.0,3,Sales,Sales Executive,3,1.0,7083,10,No
+451,Female,43.0,3,Research & Development,Healthcare Representative,1,7.0,9985,1,No
+1453,Male,31.0,2,Sales,Sales Executive,4,8.0,10793,13,No
+1999,Male,41.0,3,Research & Development,Research Scientist,4,1.0,2782,5,No
+1956,Male,31.0,3,Research & Development,Research Scientist,1,1.0,5003,10,No
+1922,Male,45.0,4,Research & Development,Healthcare Representative,3,1.0,5399,4,No
+446,Male,33.0,3,Sales,Sales Executive,4,10.0,4682,7,No
+434,Female,27.0,3,Research & Development,Research Scientist,2,,2478,4,No
+2061,Male,36.0,2,Research & Development,Laboratory Technician,4,23.0,2571,5,No
+1698,Male,33.0,3,Research & Development,Laboratory Technician,2,21.0,2028,14,No
+16,Male,31.0,1,Research & Development,Research Scientist,3,26.0,2911,5,No
+235,Female,19.0,1,Sales,Sales Representative,1,1.0,2325,0,Yes
+359,Male,32.0,3,Research & Development,Laboratory Technician,2,7.0,2794,5,No
+1133,Male,36.0,4,Research & Development,Manufacturing Director,4,18.0,7779,11,No
+1794,Male,37.0,2,Human Resources,Human Resources,2,8.0,4071,10,No
+1056,Male,,1,Sales,Sales Representative,2,10.0,1052,1,No
+183,Male,,3,Sales,Sales Executive,3,28.0,8639,2,No
+816,Female,29.0,2,Research & Development,Laboratory Technician,1,1.0,2319,1,Yes
+1120,Female,29.0,4,Research & Development,Research Scientist,4,28.0,2514,7,No
+1035,Female,41.0,1,Research & Development,Research Director,3,7.0,19973,21,No
+184,Male,30.0,3,Human Resources,Human Resources,4,9.0,6347,11,No
+1800,Male,39.0,1,Research & Development,Research Director,3,10.0,13464,4,No
+1783,Female,22.0,1,Research & Development,Laboratory Technician,1,8.0,2398,1,Yes
+308,Male,31.0,4,Research & Development,Manufacturing Director,3,1.0,4345,5,No
+1045,Female,45.0,2,Sales,Manager,4,11.0,17650,9,No
+547,Female,42.0,2,Research & Development,Research Scientist,3,29.0,4556,5,No
+442,Female,31.0,2,Research & Development,Manufacturing Director,3,7.0,8943,10,No
+408,Male,51.0,3,Research & Development,Manufacturing Director,2,2.0,5482,4,No
+1184,Male,34.0,3,Research & Development,Healthcare Representative,1,1.0,5343,13,No
+992,Male,33.0,3,Sales,Manager,3,17.0,17444,10,No
+1962,Female,,4,Sales,Sales Executive,4,7.0,5204,10,No
+1986,Female,40.0,2,Sales,Sales Executive,2,2.0,5677,11,No
+1268,Male,33.0,5,Sales,Sales Executive,3,10.0,8380,9,No
+1163,Female,34.0,1,Sales,Sales Executive,3,9.0,5714,6,No
+683,Male,34.0,5,Research & Development,Research Scientist,4,1.0,2691,10,No
+1015,Female,30.0,2,Research & Development,Research Director,1,8.0,11416,8,No
+5,Female,33.0,4,Research & Development,Research Scientist,3,,2909,8,No
+1002,Male,45.0,2,Research & Development,Laboratory Technician,1,23.0,3633,9,No
+626,Male,37.0,4,Sales,Sales Executive,2,9.0,8834,9,No
+438,Male,31.0,3,Sales,Sales Executive,4,7.0,7547,7,No
+8,Male,32.0,2,Research & Development,Laboratory Technician,4,2.0,3068,7,No
+1301,Male,,3,Research & Development,Research Scientist,1,1.0,2080,3,No
+1407,Male,,1,Research & Development,Research Scientist,4,2.0,3904,4,No
+1004,Female,30.0,3,Research & Development,Research Scientist,3,22.0,2132,5,Yes
+52,Female,33.0,3,Sales,Sales Executive,1,1.0,5376,5,No
+743,Female,38.0,3,Research & Development,Manufacturing Director,3,1.0,7861,1,No
+334,Male,41.0,2,Research & Development,Research Scientist,1,19.0,3072,1,No
+179,Male,51.0,4,Research & Development,Manufacturing Director,4,8.0,10650,4,Yes
+837,Male,38.0,3,Research & Development,Healthcare Representative,1,12.0,6288,4,No
+1864,Female,27.0,1,Sales,Sales Representative,3,23.0,3540,9,No
+901,Female,53.0,4,Research & Development,Research Director,4,23.0,14275,12,No
+1479,Male,30.0,1,Sales,Sales Executive,3,16.0,5301,2,No
+1876,Male,30.0,3,Sales,Sales Representative,4,9.0,1081,1,Yes
+806,Male,30.0,3,Research & Development,Laboratory Technician,3,1.0,3833,2,No
+1423,Female,58.0,3,Research & Development,Research Director,1,1.0,19701,9,No
+1047,Male,34.0,4,Sales,Sales Executive,4,1.0,9725,15,No
+1918,Male,,3,Research & Development,Laboratory Technician,4,6.0,2544,7,No
+500,Female,51.0,2,Sales,Sales Executive,4,14.0,4936,7,No
+429,Male,39.0,1,Research & Development,Manager,1,10.0,17068,21,No
+592,Male,36.0,4,Sales,Sales Executive,4,10.0,9980,10,No
+436,Female,32.0,2,Sales,Sales Executive,2,8.0,5228,13,No
+1071,Female,56.0,3,Research & Development,Research Scientist,3,9.0,2942,5,No
+1483,Male,57.0,2,Research & Development,Research Scientist,3,1.0,4900,12,No
+568,Male,57.0,3,Sales,Manager,4,29.0,14118,1,No
+763,Female,40.0,1,Research & Development,Research Scientist,4,2.0,2342,4,No
+2023,Male,23.0,3,Sales,Sales Representative,1,9.0,1790,1,Yes
+1689,Male,53.0,4,Research & Development,Healthcare Representative,4,24.0,7005,4,No
+1675,Female,38.0,3,Research & Development,Laboratory Technician,2,2.0,2440,4,No
+829,Male,36.0,3,Human Resources,Human Resources,2,13.0,2143,5,No
+312,Female,29.0,1,Sales,Sales Executive,4,1.0,7918,11,No
+2015,Female,38.0,3,Research & Development,Research Director,3,10.0,13206,18,No
+1993,Male,47.0,3,Research & Development,Healthcare Representative,3,25.0,8633,17,No
+1309,Male,32.0,2,Research & Development,Laboratory Technician,3,7.0,4883,10,Yes
+1621,Male,,5,Research & Development,Research Scientist,1,18.0,5208,16,No
+85,Male,36.0,3,Research & Development,Manufacturing Director,2,11.0,6499,6,No
+1420,Male,49.0,2,Research & Development,Laboratory Technician,1,28.0,4284,4,Yes
+804,Female,34.0,4,Research & Development,Research Scientist,1,2.0,4381,6,No
+1322,Male,39.0,2,Research & Development,Manufacturing Director,3,18.0,4534,8,No
+292,Male,30.0,1,Research & Development,Manufacturing Director,3,1.0,8474,11,No
+1391,Male,51.0,3,Sales,Sales Executive,2,2.0,10596,4,No
+1291,Male,,1,Research & Development,Research Scientist,3,6.0,3506,3,No
+732,Male,60.0,4,Sales,Sales Executive,1,16.0,5405,2,No
+2044,Male,50.0,4,Sales,Sales Executive,3,1.0,6728,6,Yes
+1546,Male,45.0,3,Research & Development,Research Scientist,4,28.0,2132,5,No
+112,Male,56.0,3,Research & Development,Manufacturing Director,4,7.0,7260,6,No
+1857,Male,46.0,2,Research & Development,Manufacturing Director,4,2.0,8578,9,No
+1768,Male,42.0,3,Research & Development,Laboratory Technician,2,12.0,2766,5,No
+1697,Male,60.0,4,Research & Development,Healthcare Representative,4,1.0,10883,1,No
+879,Male,,1,Sales,Sales Executive,1,,4194,5,No
+1858,Male,,2,Human Resources,Human Resources,4,1.0,2706,3,No
+1572,Female,53.0,5,Research & Development,Manufacturing Director,4,2.0,10169,33,Yes
+1936,Male,39.0,2,Research & Development,Manufacturing Director,1,9.0,5151,10,No
+1867,Male,48.0,3,Research & Development,Research Director,2,10.0,19665,22,No
+378,Male,37.0,4,Sales,Sales Executive,4,6.0,6502,5,No
+1392,Female,41.0,3,Research & Development,Research Scientist,4,22.0,5467,6,No
+484,Male,21.0,2,Sales,Sales Representative,4,9.0,2610,3,No
+859,Male,32.0,4,Sales,Sales Executive,4,13.0,4403,5,No
+4,Male,37.0,2,Research & Development,Laboratory Technician,3,2.0,2090,0,Yes
+10,Female,59.0,3,Research & Development,Laboratory Technician,1,,2670,1,No
+425,Male,45.0,3,Research & Development,Laboratory Technician,1,7.0,5210,24,No
+881,Female,,4,Research & Development,Research Scientist,2,25.0,2022,10,Yes
+1257,Male,36.0,3,Research & Development,Research Scientist,2,,3692,11,No
+2037,Male,41.0,3,Sales,Sales Executive,2,,8938,5,No
+298,Female,41.0,3,Sales,Manager,4,6.0,13591,1,No
+1292,Female,42.0,4,Research & Development,Research Scientist,2,7.0,2372,1,No
+35,Male,42.0,4,Sales,Sales Executive,2,8.0,6825,9,No
+1495,Female,24.0,2,Sales,Sales Representative,2,13.0,2033,1,No
+1157,Female,33.0,4,Sales,Sales Executive,1,9.0,8224,5,Yes
+902,Female,43.0,3,Research & Development,Healthcare Representative,4,1.0,5562,5,No
+885,Male,,1,Sales,Sales Executive,1,4.0,4256,5,No
+1006,Male,38.0,1,Research & Development,Research Scientist,3,10.0,2684,2,No
+1515,Male,33.0,5,Research & Development,Healthcare Representative,3,8.0,6388,0,No
+862,Female,53.0,2,Sales,Sales Executive,4,7.0,10934,5,No
+1126,Female,43.0,3,Research & Development,Manufacturing Director,1,27.0,10820,8,No
+351,Female,42.0,3,Research & Development,Laboratory Technician,1,2.0,2593,9,No
+32,Female,53.0,3,Research & Development,Manager,3,,19094,14,No
+454,Male,29.0,4,Research & Development,Laboratory Technician,1,8.0,2119,7,Yes
+793,Female,29.0,3,Research & Development,Healthcare Representative,3,27.0,4335,8,No
+61,Male,37.0,2,Research & Development,Research Scientist,2,19.0,3022,1,No
+141,Female,50.0,3,Research & Development,Research Director,2,1.0,18172,8,No
+469,Male,29.0,3,Sales,Sales Executive,3,2.0,4649,4,No
+73,Female,33.0,2,Research & Development,Research Director,4,1.0,13458,15,No
+1074,Male,55.0,1,Research & Development,Manager,1,2.0,16756,9,No
+296,Male,51.0,4,Research & Development,Research Director,2,8.0,12490,10,No
+159,Male,30.0,3,Research & Development,Research Scientist,3,23.0,2613,10,No
+1256,Male,49.0,2,Research & Development,Manager,3,4.0,18711,1,No
+987,Male,47.0,4,Research & Development,Manufacturing Director,3,16.0,5067,19,No
+95,Male,31.0,4,Research & Development,Research Scientist,2,1.0,2501,1,No
+1856,Female,47.0,4,Research & Development,Laboratory Technician,3,9.0,2105,2,No
+1308,Male,58.0,4,Research & Development,Research Scientist,3,23.0,2372,2,No
+58,Female,41.0,3,Research & Development,Research Director,3,12.0,19545,22,Yes
+2054,Female,29.0,4,Research & Development,Research Scientist,1,28.0,3785,5,No
+716,Male,50.0,1,Research & Development,Laboratory Technician,3,28.0,3221,20,No
+2010,Female,32.0,4,Research & Development,Laboratory Technician,2,29.0,2837,6,No
+1608,Female,44.0,3,Research & Development,Research Director,4,7.0,19049,22,No
+1152,Male,38.0,3,Human Resources,Human Resources,3,1.0,2844,7,No
+1053,Male,,3,Research & Development,Research Scientist,1,2.0,2042,3,Yes
+729,Male,40.0,4,Sales,Sales Executive,1,,10475,18,No
+834,Female,45.0,3,Research & Development,Research Scientist,3,2.0,2274,1,No
+624,Female,46.0,1,Research & Development,Healthcare Representative,3,18.0,10527,2,No
+1082,Male,,2,Research & Development,Healthcare Representative,1,24.0,8722,10,Yes
+1755,Male,34.0,4,Research & Development,Research Scientist,4,2.0,2932,5,No
+1034,Male,55.0,4,Research & Development,Healthcare Representative,2,18.0,6385,8,No
+1269,Female,19.0,3,Research & Development,Research Scientist,4,25.0,2994,1,No
+78,Male,32.0,3,Research & Development,Manufacturing Director,4,1.0,6162,9,No
+1449,Male,40.0,4,Research & Development,Laboratory Technician,3,9.0,3975,8,No
+121,Female,30.0,2,Sales,Sales Executive,2,4.0,5209,11,No
+926,Female,22.0,1,Research & Development,Manufacturing Director,3,,4171,3,Yes
+945,Male,48.0,4,Research & Development,Research Scientist,3,20.0,2259,0,No
+264,Male,45.0,2,Research & Development,Manager,4,2.0,16792,20,No
+386,Male,53.0,4,Research & Development,Research Director,3,,17584,5,No
+481,Male,36.0,4,Sales,Sales Executive,4,,9699,13,No
+710,Male,29.0,4,Research & Development,Research Scientist,4,1.0,2720,10,No
+1080,Female,46.0,4,Research & Development,Research Scientist,1,8.0,4615,16,No
+1025,Female,41.0,2,Research & Development,Manufacturing Director,3,7.0,5003,2,No
+248,Female,41.0,2,Sales,Sales Representative,2,20.0,3140,4,Yes
+1401,Female,52.0,2,Research & Development,Manufacturing Director,3,28.0,13247,5,No
+145,Female,51.0,4,Research & Development,Healthcare Representative,1,1.0,7484,13,No
+55,Male,,3,Research & Development,Laboratory Technician,3,25.0,2293,1,Yes
+1556,Male,36.0,4,Sales,Sales Representative,4,2.0,2644,3,No
+282,Male,38.0,1,Research & Development,Healthcare Representative,1,29.0,6673,1,Yes
+1613,Male,31.0,4,Sales,Sales Executive,1,2.0,5332,5,No
+68,Female,44.0,5,Sales,Sales Executive,1,1.0,5454,4,No
+747,Male,30.0,5,Sales,Sales Executive,4,27.0,5304,8,No
+1331,Female,31.0,3,Sales,Sales Representative,2,1.0,2302,3,Yes
+1405,Female,27.0,4,Research & Development,Research Scientist,3,17.0,2394,8,Yes
+1136,Male,,1,Research & Development,Research Scientist,2,2.0,3201,5,No
+1009,Female,24.0,1,Research & Development,Manufacturing Director,3,17.0,4377,4,No
+249,Male,50.0,3,Research & Development,Laboratory Technician,3,1.0,3690,3,No
+182,Female,39.0,4,Sales,Sales Executive,3,4.0,5902,15,No
+1298,Female,30.0,2,Research & Development,Manufacturing Director,3,9.0,4695,8,No
+104,Male,30.0,1,Research & Development,Laboratory Technician,4,1.0,5126,10,No
+1669,Male,29.0,3,Sales,Sales Executive,2,,4187,10,No
+140,Female,59.0,4,Human Resources,Manager,4,2.0,18844,3,No
+742,Female,36.0,3,Research & Development,Research Director,1,8.0,11713,8,No
+994,Female,29.0,3,Research & Development,Research Scientist,1,10.0,2404,0,Yes
+648,Male,30.0,4,Sales,Sales Representative,1,12.0,2033,1,Yes
+226,Female,50.0,3,Research & Development,Manager,2,11.0,19926,5,No
+340,Female,37.0,2,Research & Development,Research Scientist,1,1.0,3920,3,No
+421,Female,38.0,2,Research & Development,Research Director,2,25.0,12061,10,No
+599,Male,41.0,2,Sales,Sales Executive,4,10.0,6230,14,No
+1762,Female,29.0,3,Research & Development,Research Scientist,1,4.0,2109,1,No
+452,Male,45.0,4,Research & Development,Research Scientist,4,8.0,3697,10,No
+129,Male,,3,Sales,Sales Executive,3,4.0,4221,5,No
+1954,Male,29.0,3,Research & Development,Healthcare Representative,1,1.0,5373,5,No
+1109,Male,42.0,2,Research & Development,Manager,1,2.0,17665,22,No
+1263,Male,48.0,3,Research & Development,Research Director,4,1.0,18265,1,No
+137,Female,20.0,3,Research & Development,Laboratory Technician,4,6.0,2926,1,Yes
+581,Male,31.0,1,Research & Development,Manufacturing Director,2,9.0,10648,13,No
+1722,Male,41.0,3,Human Resources,Human Resources,2,4.0,6430,3,No
+1844,Male,29.0,3,Human Resources,Human Resources,1,13.0,2335,2,Yes
+1171,Male,42.0,4,Sales,Sales Executive,1,4.0,5155,6,No
+2045,Female,36.0,4,Sales,Sales Executive,4,11.0,6652,6,No
+412,Male,,2,Research & Development,Healthcare Representative,1,16.0,5661,8,No
+1734,Male,32.0,2,Sales,Sales Executive,2,1.0,6735,0,Yes
+1682,Male,36.0,4,Research & Development,Healthcare Representative,3,26.0,5347,3,No
+517,Female,42.0,4,Research & Development,Laboratory Technician,1,1.0,2576,5,No
+327,Female,43.0,3,Sales,Manager,4,16.0,16064,17,No
+1710,Female,36.0,4,Sales,Sales Representative,4,2.0,4502,13,No
+369,Male,,2,Research & Development,Healthcare Representative,1,,4000,6,No
+419,Female,36.0,4,Research & Development,Laboratory Technician,2,24.0,5674,9,No
+154,Female,36.0,2,Sales,Sales Executive,4,11.0,9738,9,No
+1668,Male,38.0,3,Research & Development,Research Scientist,4,1.0,4735,13,No
+939,Male,33.0,4,Research & Development,Research Scientist,1,1.0,2799,3,No
+341,Male,45.0,4,Research & Development,Manufacturing Director,3,7.0,6434,3,No
+1898,Female,27.0,2,Sales,Sales Executive,3,2.0,6500,8,No
+1489,Female,34.0,4,Sales,Sales Executive,2,24.0,4599,15,Yes
+94,Male,29.0,3,Research & Development,Research Scientist,2,2.0,2703,5,No
+125,Male,32.0,4,Sales,Sales Executive,3,6.0,5010,11,No
+1124,Male,46.0,1,Sales,Manager,3,,17465,12,No
+42,Male,39.0,3,Sales,Sales Representative,4,,2086,1,Yes
+1523,Male,44.0,3,Research & Development,Research Director,1,28.0,16328,20,No
+601,Female,40.0,3,Research & Development,Manufacturing Director,3,6.0,13237,20,No
+597,Female,55.0,5,Sales,Manager,2,18.0,16835,10,No
+999,Male,41.0,3,Research & Development,Research Director,3,9.0,19419,18,No
+1188,Female,43.0,3,Sales,Sales Executive,3,9.0,5346,4,Yes
+1583,Female,38.0,3,Sales,Sales Executive,2,16.0,4198,3,No
+1752,Female,29.0,3,Sales,Sales Representative,2,9.0,2760,2,Yes
+1417,Male,,3,Research & Development,Laboratory Technician,1,7.0,3578,7,No
+101,Male,45.0,4,Research & Development,Research Director,1,6.0,13245,0,No
+110,Male,34.0,2,Research & Development,Manufacturing Director,2,1.0,4325,5,No
+1382,Male,38.0,3,Research & Development,Research Scientist,3,7.0,2610,4,No
+106,Male,55.0,2,Sales,Sales Executive,4,1.0,10239,1,No
+614,Male,18.0,3,Sales,Sales Representative,2,,1878,0,Yes
+1628,Female,40.0,3,Research & Development,Manufacturing Director,3,15.0,10435,18,No
+942,Female,,1,Research & Development,Healthcare Representative,4,21.0,4014,10,No
+1315,Female,,3,Research & Development,Laboratory Technician,4,1.0,6674,9,No
+1680,Male,20.0,1,Sales,Sales Representative,1,9.0,2728,2,No
+584,Male,33.0,1,Research & Development,Laboratory Technician,4,10.0,3408,4,Yes
+895,Male,31.0,4,Research & Development,Research Scientist,4,11.0,2356,6,No
+1092,Male,40.0,4,Research & Development,Healthcare Representative,4,20.0,10322,11,No
+1215,Female,50.0,3,Research & Development,Manager,1,2.0,17856,2,No
+1648,Male,27.0,3,Research & Development,Research Scientist,4,2.0,2580,4,No
+536,Male,,2,Research & Development,Laboratory Technician,1,17.0,4558,10,No
+1790,Male,36.0,3,Research & Development,Healthcare Representative,1,10.0,8321,12,No
+1472,Male,53.0,3,Research & Development,Research Director,2,2.0,16598,9,No
+1803,Male,42.0,3,Research & Development,Healthcare Representative,1,13.0,5538,0,No
+139,Male,37.0,2,Research & Development,Healthcare Representative,4,2.0,5163,1,No
+843,Male,43.0,2,Research & Development,Research Director,1,14.0,17159,4,No
+1270,Male,23.0,2,Research & Development,Research Scientist,3,1.0,1223,1,No
+1409,Female,52.0,4,Research & Development,Laboratory Technician,1,8.0,2950,5,No
+1249,Female,29.0,3,Research & Development,Research Scientist,4,1.0,3760,3,No
+80,Female,50.0,2,Research & Development,Research Director,3,7.0,18740,27,No
+387,Male,42.0,1,Sales,Sales Executive,3,1.0,4907,20,No
+2068,Male,34.0,3,Research & Development,Laboratory Technician,3,8.0,4404,4,No
+330,Female,32.0,2,Sales,Sales Representative,2,4.0,3931,4,No
+307,Male,38.0,3,Sales,Sales Executive,3,,10609,16,No
+197,Female,30.0,3,Research & Development,Research Scientist,1,,3204,3,No
+1935,Female,56.0,5,Sales,Sales Executive,1,11.0,5380,0,No
+497,Male,27.0,2,Research & Development,Laboratory Technician,2,1.0,3816,5,No
+155,Female,36.0,2,Research & Development,Laboratory Technician,4,,2835,1,No
+1802,Female,40.0,2,Research & Development,Laboratory Technician,1,2.0,3377,4,No
+342,Male,37.0,3,Research & Development,Manufacturing Director,3,10.0,10048,1,Yes
+1994,Male,33.0,2,Research & Development,Laboratory Technician,3,1.0,2008,1,No
+13,Male,36.0,3,Research & Development,Healthcare Representative,3,27.0,5237,7,No
+602,Female,39.0,1,Research & Development,Laboratory Technician,3,8.0,3755,8,No
+990,Male,36.0,4,Sales,Sales Executive,4,8.0,5079,7,No
+350,Female,,3,Research & Development,Manufacturing Director,3,1.0,4898,4,No
+823,Female,36.0,3,Research & Development,Manufacturing Director,2,1.0,5228,9,No
+518,Male,37.0,4,Research & Development,Manufacturing Director,2,10.0,4197,1,No
+1282,Male,51.0,3,Sales,Manager,2,9.0,19847,29,No
+1655,Female,49.0,4,Research & Development,Research Director,2,22.0,16413,4,No
+771,Female,,4,Research & Development,Healthcare Representative,1,2.0,5093,1,No
+1767,Male,43.0,3,Research & Development,Research Scientist,3,17.0,2437,1,Yes
+1114,Female,33.0,3,Sales,Sales Executive,2,7.0,4302,3,No
+618,Male,,2,Sales,Sales Executive,3,29.0,4306,0,No
+1007,Male,46.0,2,Research & Development,Manufacturing Director,3,7.0,10845,8,No
+1907,Male,56.0,2,Research & Development,Laboratory Technician,4,24.0,2587,4,Yes
+195,Male,32.0,2,Sales,Sales Executive,4,9.0,4668,8,No
+680,Female,30.0,3,Research & Development,Research Scientist,3,,2083,1,No
+1562,Male,30.0,3,Sales,Sales Executive,1,1.0,9714,10,Yes
+1027,Female,27.0,4,Research & Development,Manufacturing Director,4,2.0,4227,3,No
+1911,Male,42.0,3,Research & Development,Research Director,1,6.0,13348,13,No
+1016,Female,20.0,3,Research & Development,Research Scientist,1,11.0,2600,1,Yes
+738,Male,50.0,4,Sales,Sales Representative,2,8.0,3875,2,No
+243,Male,19.0,3,Research & Development,Laboratory Technician,4,2.0,1102,1,Yes
+1996,Male,31.0,2,Sales,Sales Representative,3,2.0,3067,2,No
+974,Female,29.0,3,Sales,Sales Representative,4,20.0,2157,3,No
+1860,Male,42.0,3,Research & Development,Laboratory Technician,3,8.0,3968,0,No
+1880,Female,36.0,4,Sales,Sales Executive,3,10.0,5673,10,No
+1167,Male,42.0,3,Sales,Sales Executive,1,12.0,13758,21,Yes
+1204,Female,46.0,3,Sales,Manager,1,2.0,17048,26,No
+2056,Female,39.0,1,Sales,Sales Executive,4,24.0,12031,20,No
+11,Male,30.0,1,Research & Development,Laboratory Technician,3,24.0,2693,1,No
+1435,Male,36.0,4,Research & Development,Laboratory Technician,4,4.0,5810,10,No
+927,Female,41.0,4,Research & Development,Laboratory Technician,4,2.0,2778,7,Yes
+1605,Female,22.0,2,Research & Development,Research Scientist,3,26.0,2814,4,No
+478,Female,21.0,1,Sales,Sales Representative,2,1.0,2174,3,Yes
+1085,Female,41.0,2,Research & Development,Research Scientist,3,7.0,3376,10,No
+1564,Male,,3,Research & Development,Laboratory Technician,1,1.0,2450,3,No
+447,Male,47.0,5,Research & Development,Research Director,3,,18300,3,No
+1460,Male,45.0,3,Research & Development,Healthcare Representative,1,20.0,10851,7,No
+1590,Male,29.0,1,Research & Development,Healthcare Representative,4,2.0,8853,6,No
+2060,Female,,3,Sales,Sales Representative,3,,2966,4,No
+353,Male,51.0,3,Research & Development,Research Scientist,4,1.0,2723,1,No
+1932,Male,34.0,4,Research & Development,Research Scientist,4,22.0,5747,15,No
+496,Male,,4,Research & Development,Healthcare Representative,2,9.0,6540,1,No
+1534,Male,40.0,4,Research & Development,Laboratory Technician,1,9.0,2018,5,Yes
+1242,Female,42.0,5,Research & Development,Research Director,1,26.0,13191,1,No
+193,Female,38.0,5,Research & Development,Research Scientist,3,,4317,3,No
+720,Female,24.0,2,Sales,Sales Executive,3,,4577,2,Yes
+1588,Male,39.0,3,Sales,Sales Executive,3,6.0,8237,7,No
+1361,Male,40.0,4,Research & Development,Laboratory Technician,2,1.0,2387,4,No
+1553,Male,45.0,4,Research & Development,Healthcare Representative,2,1.0,7441,10,No
+2051,Female,40.0,4,Research & Development,Research Scientist,3,2.0,2001,5,No
+590,Female,34.0,3,Human Resources,Human Resources,1,23.0,9950,3,Yes
+727,Female,32.0,2,Research & Development,Research Director,4,,11159,7,No
+1656,Female,50.0,5,Research & Development,Research Director,1,17.0,13269,14,No
+311,Male,37.0,4,Sales,Sales Representative,4,4.0,2793,9,No
+1421,Female,29.0,1,Research & Development,Healthcare Representative,4,14.0,7553,8,Yes
+314,Female,,3,Sales,Sales Executive,3,1.0,8789,10,No
+1833,Female,31.0,4,Sales,Sales Executive,1,7.0,9637,3,No
+1782,Female,38.0,2,Research & Development,Laboratory Technician,3,6.0,3702,5,No
+293,Female,27.0,3,Sales,Sales Executive,3,20.0,9981,7,No
+103,Male,46.0,2,Human Resources,Human Resources,2,,5021,4,No
+200,Male,41.0,4,Research & Development,Laboratory Technician,1,9.0,2238,5,No
+1128,Male,40.0,3,Research & Development,Research Director,3,14.0,19626,20,No
+1211,Male,30.0,4,Sales,Sales Executive,1,29.0,4115,4,No
+1224,Male,30.0,4,Research & Development,Laboratory Technician,3,7.0,3491,10,No
+934,Male,34.0,3,Research & Development,Laboratory Technician,2,10.0,2008,1,No
+1598,Female,40.0,2,Sales,Sales Executive,1,14.0,4639,5,No
+766,Male,29.0,3,Sales,Sales Representative,2,10.0,2297,2,No
+1217,Male,46.0,2,Research & Development,Research Director,2,15.0,19081,4,No
+176,Male,41.0,1,Sales,Sales Executive,3,9.0,8189,9,No
+1929,Female,39.0,4,Sales,Sales Executive,3,21.0,5736,3,No
+1143,Female,29.0,3,Research & Development,Research Scientist,2,10.0,3291,7,No
+546,Female,52.0,2,Research & Development,Manager,4,4.0,16555,5,No
+1394,Male,37.0,1,Research & Development,Research Scientist,3,4.0,2996,6,No
+690,Female,29.0,2,Sales,Sales Executive,3,,5561,6,No
+1683,Female,44.0,3,Human Resources,Human Resources,4,1.0,3195,2,No
+684,Female,45.0,4,Sales,Sales Executive,1,26.0,4286,1,Yes
+1399,Male,,1,Sales,Sales Executive,3,18.0,6232,3,No
+467,Male,47.0,1,Sales,Sales Representative,3,4.0,2976,0,No
+515,Female,37.0,3,Research & Development,Laboratory Technician,1,14.0,3034,18,No
+1,Female,41.0,2,Sales,Sales Executive,4,1.0,5993,6,Yes
+482,Male,57.0,4,Research & Development,Healthcare Representative,3,1.0,6755,3,No
+1156,Male,18.0,1,Research & Development,Laboratory Technician,3,8.0,1904,0,Yes
+1955,Female,32.0,4,Research & Development,Healthcare Representative,4,15.0,6667,5,No
+641,Male,,2,Sales,Sales Executive,2,28.0,6272,5,No
+1758,Female,33.0,3,Sales,Sales Executive,1,16.0,8564,0,Yes
+75,Female,,4,Research & Development,Laboratory Technician,1,23.0,4014,2,No
+882,Male,32.0,3,Research & Development,Laboratory Technician,4,1.0,2314,3,No
+1797,Male,,3,Sales,Sales Executive,4,27.0,5813,10,Yes
+1458,Female,39.0,3,Research & Development,Laboratory Technician,1,2.0,3646,1,Yes
+1360,Female,58.0,4,Research & Development,Manufacturing Director,1,7.0,10008,10,Yes
+238,Male,36.0,2,Research & Development,Laboratory Technician,2,,2088,8,No
+604,Male,31.0,1,Sales,Sales Executive,4,2.0,6582,6,No
+164,Female,,3,Research & Development,Research Scientist,2,6.0,2368,5,No
+1310,Male,39.0,3,Research & Development,Research Scientist,1,23.0,3904,5,Yes
+725,Female,27.0,2,Research & Development,Manufacturing Director,1,1.0,7412,9,No
+1200,Male,44.0,4,Research & Development,Research Scientist,3,10.0,2936,6,Yes
+996,Female,45.0,4,Research & Development,Laboratory Technician,4,1.0,2270,5,No
+119,Male,40.0,4,Research & Development,Healthcare Representative,2,1.0,13503,22,No
+2000,Female,47.0,1,Research & Development,Research Director,2,1.0,11957,13,No
+247,Female,34.0,2,Research & Development,Research Scientist,2,27.0,2311,3,No
+1225,Male,44.0,4,Research & Development,Research Scientist,4,29.0,4541,20,No
+1362,Female,36.0,3,Sales,Sales Executive,1,7.0,4639,15,No
+1094,Male,27.0,5,Research & Development,Laboratory Technician,3,8.0,4621,3,No
+554,Female,24.0,1,Sales,Sales Representative,2,1.0,3202,5,Yes
+343,Female,39.0,4,Research & Development,Healthcare Representative,3,2.0,10938,19,No
+90,Male,36.0,3,Research & Development,Research Scientist,3,9.0,3388,1,Yes
+1115,Male,34.0,4,Research & Development,Research Scientist,4,,2979,0,No
+174,Female,50.0,3,Sales,Sales Executive,4,12.0,9208,2,No
+410,Male,41.0,4,Sales,Manager,2,2.0,16015,22,No
+1389,Male,31.0,4,Research & Development,Manufacturing Director,3,22.0,6179,10,Yes
+444,Male,39.0,2,Research & Development,Manager,4,7.0,19272,21,No
+2020,Male,44.0,3,Research & Development,Research Scientist,4,1.0,2436,4,No
+1545,Male,33.0,3,Research & Development,Manufacturing Director,2,25.0,4320,5,No
+677,Male,33.0,4,Sales,Sales Executive,3,8.0,7104,5,No
+2018,Female,,2,Sales,Sales Executive,3,8.0,4907,5,No
+1161,Female,37.0,2,Research & Development,Healthcare Representative,4,25.0,5731,6,No
+486,Female,37.0,3,Research & Development,Laboratory Technician,1,10.0,3452,5,No
+667,Male,27.0,1,Sales,Sales Representative,1,2.0,3041,4,Yes
+1992,Male,,1,Research & Development,Laboratory Technician,3,2.0,3977,2,No
+456,Female,30.0,3,Sales,Sales Executive,3,,6118,10,No
+565,Female,29.0,5,Research & Development,Research Scientist,2,25.0,2546,2,Yes
+224,Male,27.0,3,Research & Development,Research Scientist,3,,2566,1,No
+36,Female,44.0,4,Research & Development,Healthcare Representative,4,7.0,10248,22,No
+705,Male,23.0,3,Research & Development,Research Scientist,1,4.0,2819,3,No
+262,Male,43.0,3,Research & Development,Research Scientist,4,7.0,2089,5,No
+1299,Female,29.0,3,Research & Development,Laboratory Technician,3,7.0,3339,7,Yes
+1870,Female,27.0,3,Research & Development,Research Scientist,1,15.0,4774,7,No
+1869,Female,46.0,3,Sales,Sales Executive,2,10.0,7314,8,Yes
+231,Male,32.0,5,Research & Development,Research Scientist,3,6.0,3038,5,No
+228,Female,30.0,3,Sales,Sales Executive,4,,9419,10,No
+904,Male,37.0,2,Sales,Sales Executive,2,19.0,7642,10,No
+239,Male,30.0,3,Research & Development,Laboratory Technician,1,9.0,3072,12,No
+709,Female,38.0,4,Sales,Sales Executive,4,7.0,4028,7,No
+1670,Male,33.0,4,Sales,Sales Executive,4,2.0,5505,6,No
+1630,Female,,4,Research & Development,Healthcare Representative,3,8.0,4148,14,No
+1275,Male,,2,Research & Development,Research Scientist,4,4.0,2875,8,No
+663,Male,43.0,5,Research & Development,Laboratory Technician,3,9.0,5679,8,No
+96,Male,32.0,3,Research & Development,Research Scientist,2,1.0,6220,10,No
+1721,Male,31.0,4,Research & Development,Laboratory Technician,3,2.0,3477,5,No
+813,Female,52.0,4,Research & Development,Laboratory Technician,3,11.0,3149,5,No
+1039,Female,44.0,3,Sales,Sales Executive,4,28.0,13320,12,No
+912,Female,29.0,1,Research & Development,Laboratory Technician,4,7.0,2532,4,No
+1175,Female,,1,Research & Development,Laboratory Technician,4,12.0,2515,1,Yes
+325,Male,33.0,3,Research & Development,Laboratory Technician,4,14.0,2436,5,Yes
+1017,Female,30.0,3,Research & Development,Laboratory Technician,2,,2422,3,Yes
+297,Female,30.0,3,Research & Development,Research Scientist,1,,2657,5,Yes
+221,Male,,3,Research & Development,Research Scientist,4,21.0,2713,5,No
+175,Female,31.0,3,Sales,Sales Executive,3,20.0,4559,2,Yes
+2021,Male,21.0,1,Sales,Sales Representative,1,,2380,2,No
+306,Male,37.0,3,Research & Development,Research Director,4,11.0,12185,10,No
+1687,Female,38.0,2,Research & Development,Laboratory Technician,3,4.0,3306,0,No
+1303,Female,,3,Research & Development,Research Scientist,2,1.0,2096,2,No
+252,Female,33.0,3,Research & Development,Research Scientist,2,14.0,2756,8,No
+54,Female,27.0,4,Research & Development,Laboratory Technician,1,2.0,2341,1,No
+966,Female,32.0,4,Research & Development,Manufacturing Director,1,,6725,8,No
+143,Male,,1,Research & Development,Research Scientist,4,7.0,2889,2,No
+51,Female,36.0,4,Research & Development,Research Scientist,1,,3419,1,No
+787,Male,55.0,3,Research & Development,Manager,1,2.0,19859,5,Yes
+1854,Male,42.0,4,Research & Development,Research Scientist,3,10.0,2936,6,No
+1878,Male,22.0,1,Research & Development,Research Scientist,2,7.0,2472,1,Yes
+1989,Male,30.0,2,Research & Development,Laboratory Technician,2,1.0,3748,12,No
+652,Male,,2,Research & Development,Laboratory Technician,4,25.0,3681,3,No
+630,Male,52.0,2,Research & Development,Research Scientist,1,6.0,5577,10,No
+1245,Female,54.0,4,Research & Development,Manufacturing Director,3,1.0,10502,5,No
+1319,Male,52.0,3,Sales,Sales Executive,2,,8446,8,Yes
+31,Male,34.0,1,Research & Development,Research Scientist,1,6.0,2960,4,Yes
+1973,Male,55.0,4,Human Resources,Manager,2,26.0,19636,10,No
+1408,Female,42.0,3,Human Resources,Manager,1,10.0,16799,20,No
+88,Male,,3,Research & Development,Research Scientist,1,1.0,2194,3,No
+1239,Female,40.0,3,Sales,Sales Executive,2,10.0,6852,5,No
+1736,Female,31.0,1,Research & Development,Manufacturing Director,4,24.0,5238,5,No
+488,Male,41.0,3,Sales,Sales Executive,2,4.0,9355,8,Yes
+686,Female,,3,Research & Development,Laboratory Technician,4,6.0,2659,3,No
+1190,Female,32.0,1,Sales,Sales Representative,1,2.0,2827,1,No
+1805,Male,38.0,3,Human Resources,Human Resources,2,2.0,2592,11,No
+511,Female,22.0,3,Research & Development,Research Scientist,2,11.0,2244,2,No
+1019,Male,22.0,1,Research & Development,Laboratory Technician,1,8.0,2451,4,No
+1001,Female,27.0,4,Research & Development,Laboratory Technician,2,16.0,2811,2,No
+1835,Female,38.0,4,Sales,Sales Representative,4,2.0,5405,4,No
+611,Male,29.0,3,Research & Development,Manufacturing Director,4,19.0,4262,3,No
+364,Male,,4,Research & Development,Laboratory Technician,3,2.0,3485,0,Yes
+98,Female,31.0,4,Research & Development,Manufacturing Director,4,8.0,4424,11,No
+1278,Male,55.0,1,Research & Development,Healthcare Representative,2,8.0,13577,33,No
+321,Male,59.0,2,Human Resources,Human Resources,3,6.0,2267,2,No
+595,Female,48.0,5,Sales,Sales Executive,4,2.0,4051,9,No
+525,Male,43.0,3,Research & Development,Laboratory Technician,4,21.0,2258,3,No
+845,Male,,3,Research & Development,Manufacturing Director,3,7.0,10221,8,No
+242,Male,33.0,3,Research & Development,Research Scientist,4,2.0,2500,3,No
+23,Female,53.0,4,Sales,Manager,4,2.0,15427,25,No
+1801,Male,46.0,2,Sales,Sales Executive,2,26.0,7991,2,No
+1461,Female,31.0,2,Human Resources,Human Resources,2,8.0,2109,3,No
+461,Male,38.0,2,Research & Development,Research Director,4,15.0,11510,11,No
+1424,Male,55.0,4,Research & Development,Research Director,4,1.0,14732,7,No
+1233,Male,60.0,4,Sales,Sales Executive,4,7.0,5220,11,No
+825,Male,58.0,4,Research & Development,Research Director,2,2.0,19246,31,Yes
+79,Female,38.0,5,Research & Development,Laboratory Technician,4,29.0,2406,10,No
+1732,Male,46.0,3,Sales,Sales Executive,4,2.0,10368,10,No
+377,Male,,3,Research & Development,Research Scientist,4,9.0,2070,5,No
+2032,Male,56.0,2,Research & Development,Laboratory Technician,3,7.0,2339,10,Yes
+1220,Female,33.0,3,Sales,Sales Executive,3,25.0,4539,10,No
+1552,Male,40.0,2,Research & Development,Healthcare Representative,4,8.0,4069,2,No
+1944,Female,27.0,3,Human Resources,Human Resources,2,22.0,2863,1,Yes
+384,Female,,3,Research & Development,Manufacturing Director,2,1.0,6397,6,No
+1804,Male,,2,Research & Development,Manufacturing Director,4,2.0,5762,7,No
+969,Female,33.0,3,Research & Development,Healthcare Representative,4,1.0,6949,5,No
+492,Male,40.0,2,Sales,Sales Executive,3,22.0,6380,6,Yes
+1905,Male,34.0,4,Research & Development,Research Scientist,1,16.0,2307,5,Yes
+47,Male,50.0,2,Sales,Sales Representative,3,,2683,3,Yes
+1022,Male,48.0,3,Research & Development,Healthcare Representative,3,6.0,4240,2,No
+1830,Female,54.0,4,Research & Development,Research Scientist,4,7.0,6854,7,No
+922,Female,20.0,3,Sales,Sales Representative,3,2.0,2044,2,Yes
+1813,Male,43.0,3,Research & Development,Research Scientist,3,9.0,2438,3,No
+1859,Male,29.0,1,Research & Development,Healthcare Representative,3,29.0,6384,7,No
+1374,Female,34.0,1,Research & Development,Research Scientist,3,26.0,2029,5,No
+752,Male,42.0,3,Research & Development,Research Scientist,3,19.0,2759,2,Yes
+1647,Female,27.0,3,Research & Development,Research Scientist,3,8.0,3517,3,No
+959,Male,19.0,3,Sales,Sales Representative,2,21.0,2121,1,Yes
+1026,Female,39.0,1,Research & Development,Manufacturing Director,4,1.0,12742,21,No
+260,Female,27.0,3,Research & Development,Research Scientist,2,9.0,2279,7,No
+1283,Male,59.0,4,Research & Development,Manufacturing Director,4,18.0,10512,9,No
+613,Male,31.0,3,Sales,Manager,4,7.0,11557,5,No
+1216,Male,,4,Research & Development,Laboratory Technician,1,19.0,3196,6,No
+523,Female,34.0,4,Sales,Sales Executive,3,4.0,6538,3,No
+941,Male,31.0,4,Sales,Sales Representative,3,7.0,2329,7,No
+1050,Female,53.0,3,Sales,Sales Executive,2,2.0,7525,15,No
+2034,Female,41.0,4,Research & Development,Manufacturing Director,2,28.0,13570,20,No
+1013,Female,54.0,3,Research & Development,Manufacturing Director,3,17.0,10739,10,No
+562,Male,30.0,3,Research & Development,Laboratory Technician,4,,2097,5,No
+499,Male,49.0,3,Research & Development,Healthcare Representative,3,7.0,10965,5,No
+550,Female,46.0,3,Research & Development,Manufacturing Director,3,18.0,4810,10,No
+97,Female,36.0,3,Research & Development,Laboratory Technician,4,6.0,3038,1,No
+1939,Female,32.0,2,Research & Development,Research Scientist,3,,2432,4,Yes
+1619,Male,27.0,3,Research & Development,Laboratory Technician,1,19.0,4066,7,No
+679,Female,32.0,4,Research & Development,Research Scientist,4,9.0,6322,6,No
+1150,Male,29.0,1,Research & Development,Manufacturing Director,4,8.0,5056,10,No
+267,Male,37.0,3,Research & Development,Research Scientist,1,21.0,3564,8,No
+1601,Male,,2,Research & Development,Laboratory Technician,4,7.0,2690,1,No
+851,Female,51.0,4,Sales,Manager,3,26.0,16307,20,No
+151,Female,34.0,4,Research & Development,Research Scientist,2,6.0,4505,1,No
+558,Female,40.0,4,Sales,Manager,3,2.0,18041,20,No
+1972,Male,38.0,4,Human Resources,Human Resources,2,1.0,2991,6,No
+1363,Male,48.0,3,Research & Development,Manufacturing Director,4,4.0,7898,10,No
+836,Male,42.0,3,Research & Development,Manufacturing Director,2,29.0,4434,9,No
+1979,Female,31.0,3,Research & Development,Research Director,3,10.0,11031,11,No
+118,Male,46.0,2,Sales,Sales Executive,4,9.0,9619,9,Yes
+1185,Male,,4,Research & Development,Laboratory Technician,4,4.0,2376,2,No
+1928,Male,29.0,3,Sales,Sales Representative,1,24.0,1091,1,Yes
+1976,Male,42.0,2,Research & Development,Research Scientist,3,23.0,4332,20,No
+1043,Female,39.0,3,Research & Development,Manufacturing Director,1,22.0,10880,21,No
+675,Male,22.0,1,Research & Development,Research Scientist,3,6.0,2773,2,No
+15,Female,29.0,2,Research & Development,Laboratory Technician,3,15.0,4193,9,No
+526,Female,43.0,4,Research & Development,Healthcare Representative,3,8.0,4522,5,No
+390,Male,,2,Research & Development,Healthcare Representative,1,11.0,4741,5,No
+961,Female,31.0,3,Research & Development,Healthcare Representative,4,12.0,5855,9,No
+1692,Male,32.0,4,Research & Development,Laboratory Technician,2,2.0,1393,1,Yes
+1940,Male,38.0,2,Research & Development,Research Scientist,4,9.0,4771,5,No
+960,Male,20.0,3,Research & Development,Laboratory Technician,1,4.0,2973,1,Yes
+1191,Female,56.0,4,Research & Development,Manager,1,4.0,19943,5,No
+216,Female,34.0,4,Sales,Sales Representative,3,2.0,2231,4,No
+1251,Male,31.0,2,Research & Development,Healthcare Representative,1,11.0,6833,6,No
+1644,Male,48.0,5,Research & Development,Manager,4,4.0,15202,2,No
+352,Male,40.0,2,Research & Development,Research Director,3,2.0,19436,21,No
+453,Male,40.0,2,Sales,Sales Executive,4,1.0,7457,4,No
+1945,Male,,4,Sales,Sales Executive,1,18.0,5561,5,No
+1467,Female,34.0,4,Human Resources,Human Resources,3,9.0,2742,2,Yes
+704,Male,,3,Research & Development,Laboratory Technician,3,,1281,1,No
+1431,Male,34.0,4,Research & Development,Research Scientist,1,1.0,2996,4,No
+1066,Male,40.0,3,Sales,Sales Executive,1,26.0,8396,7,No
+1807,Male,34.0,4,Research & Development,Laboratory Technician,1,9.0,5346,7,Yes
+1052,Male,36.0,3,Research & Development,Laboratory Technician,3,15.0,4834,1,Yes
+1527,Female,46.0,3,Sales,Manager,2,,16606,13,No
+714,Female,27.0,1,Sales,Sales Executive,4,,4647,6,No
+28,Female,34.0,4,Research & Development,Research Director,2,7.0,11994,12,No
+477,Male,42.0,4,Research & Development,Healthcare Representative,4,2.0,6781,1,No
+1747,Female,30.0,3,Human Resources,Human Resources,4,8.0,2180,4,Yes
+460,Male,37.0,2,Research & Development,Manufacturing Director,4,,6347,6,No
+578,Female,54.0,4,Research & Development,Laboratory Technician,3,8.0,3780,1,No
+638,Male,49.0,4,Research & Development,Research Director,3,18.0,19502,31,No
+300,Male,29.0,3,Research & Development,Research Scientist,3,1.0,2058,6,Yes
+1273,Male,,1,Sales,Sales Representative,4,24.0,1118,1,Yes
+1937,Female,38.0,3,Research & Development,Research Scientist,2,8.0,2133,20,No
+1425,Female,36.0,4,Sales,Sales Executive,2,,9278,5,No
+2014,Male,39.0,1,Research & Development,Research Scientist,4,24.0,4108,7,No
+124,Male,46.0,3,Research & Development,Healthcare Representative,1,1.0,10673,10,No
+1422,Female,54.0,3,Research & Development,Research Director,4,1.0,17328,20,No
+972,Male,45.0,2,Research & Development,Laboratory Technician,2,4.0,4447,9,No
+1403,Female,27.0,3,Sales,Sales Executive,4,10.0,5769,6,No
+206,Male,45.0,3,Research & Development,Laboratory Technician,2,9.0,2348,17,No
+1784,Female,31.0,4,Sales,Sales Executive,4,29.0,5468,12,No
+2064,Male,27.0,3,Research & Development,Manufacturing Director,2,4.0,6142,6,No
+1098,Male,44.0,2,Human Resources,Human Resources,1,1.0,10482,20,Yes
+805,Female,,4,Sales,Sales Representative,4,8.0,2572,3,No
+983,Female,38.0,3,Sales,Sales Executive,4,10.0,5666,5,No
+1729,Male,30.0,1,Research & Development,Research Scientist,4,16.0,2862,10,No
+657,Female,20.0,3,Research & Development,Research Scientist,2,1.0,2836,1,No
+773,Male,38.0,5,Research & Development,Research Scientist,3,2.0,3057,1,No
+1113,Male,50.0,4,Sales,Sales Executive,3,1.0,4728,0,Yes
+700,Male,27.0,4,Research & Development,Research Scientist,4,,2045,4,No
+878,Male,36.0,3,Human Resources,Human Resources,1,8.0,2342,5,No
+1542,Male,42.0,3,Research & Development,Laboratory Technician,2,2.0,4841,1,No
+1837,Male,58.0,4,Research & Development,Research Director,3,15.0,15787,2,No
+1099,Male,33.0,3,Research & Development,Healthcare Representative,4,,7119,3,No
+153,Female,34.0,3,Research & Development,Manager,1,,11631,11,No
+1028,Male,,3,Research & Development,Laboratory Technician,4,10.0,3917,3,No
+1529,Female,,3,Research & Development,Healthcare Representative,2,16.0,8606,11,No
+1158,Male,41.0,4,Research & Development,Laboratory Technician,4,12.0,4766,1,No
+158,Male,43.0,2,Sales,Manager,4,26.0,16959,25,No
+911,Male,32.0,4,Research & Development,Laboratory Technician,4,25.0,2795,1,Yes
+880,Female,,3,Research & Development,Manufacturing Director,3,9.0,10685,17,No
+493,Male,31.0,4,Research & Development,Research Scientist,2,9.0,2657,2,No
+372,Male,45.0,2,Research & Development,Healthcare Representative,4,20.0,13496,20,No
+910,Male,33.0,2,Human Resources,Human Resources,2,,2277,4,No
+1304,Male,32.0,3,Sales,Sales Executive,4,8.0,6209,10,No
+1140,Male,34.0,2,Research & Development,Manufacturing Director,3,2.0,4033,3,No
+1212,Male,40.0,4,Sales,Sales Executive,2,2.0,4327,0,No
+60,Male,34.0,4,Sales,Sales Executive,3,23.0,4568,9,No
+1771,Male,33.0,3,Research & Development,Research Scientist,2,4.0,3055,9,No
+1396,Male,32.0,1,Sales,Sales Executive,2,2.0,4078,3,No
+1226,Male,20.0,3,Sales,Sales Representative,4,21.0,2678,2,No
+1073,Female,36.0,5,Research & Development,Manufacturing Director,4,12.0,8858,14,No
+7,Male,27.0,1,Research & Development,Laboratory Technician,2,2.0,3468,2,No
+1415,Male,,3,Research & Development,Laboratory Technician,4,1.0,3229,3,No
+1787,Male,37.0,2,Sales,Sales Executive,2,9.0,4189,5,No
+363,Female,46.0,3,Sales,Manager,2,2.0,16872,7,No
+1635,Female,45.0,2,Research & Development,Manufacturing Director,4,2.0,5770,10,No
+1882,Male,34.0,3,Sales,Sales Executive,4,4.0,9713,5,No
+593,Male,22.0,1,Research & Development,Laboratory Technician,3,4.0,3894,2,Yes
+1412,Male,,2,Research & Development,Manufacturing Director,4,18.0,9362,2,No
+1522,Male,29.0,4,Research & Development,Research Scientist,1,1.0,2362,9,Yes
+1166,Female,40.0,4,Research & Development,Research Director,3,9.0,13499,18,No
+1842,Male,31.0,5,Human Resources,Human Resources,1,18.0,2956,1,Yes
+417,Male,39.0,3,Research & Development,Healthcare Representative,4,1.0,9613,18,No
+1622,Female,,3,Research & Development,Manufacturing Director,1,27.0,4877,5,No
+428,Female,33.0,4,Research & Development,Manager,2,,11878,10,No
+201,Female,19.0,1,Research & Development,Laboratory Technician,2,,1483,1,No
+797,Female,34.0,4,Research & Development,Research Scientist,4,1.0,3280,4,No
+64,Male,48.0,2,Research & Development,Laboratory Technician,3,1.0,5381,1,Yes
+1618,Male,39.0,5,Research & Development,Manufacturing Director,1,10.0,5377,7,No
+1011,Female,31.0,1,Research & Development,Manufacturing Director,1,1.0,4148,4,No
+1162,Male,27.0,3,Research & Development,Research Scientist,3,6.0,2539,4,No
+1577,Male,34.0,4,Research & Development,Research Scientist,4,7.0,2972,1,No
+632,Male,24.0,3,Sales,Sales Representative,4,24.0,2400,2,No
+1367,Female,51.0,2,Research & Development,Manufacturing Director,2,11.0,13142,5,No
+905,Male,50.0,4,Research & Development,Manager,1,2.0,17924,31,No
+530,Male,31.0,2,Research & Development,Laboratory Technician,1,1.0,2218,4,No
+699,Male,36.0,2,Research & Development,Manufacturing Director,2,9.0,8847,3,No
+437,Male,27.0,3,Sales,Sales Executive,3,2.0,4478,5,No
+24,Male,38.0,3,Research & Development,Research Scientist,4,2.0,3944,3,No
+954,Male,40.0,4,Sales,Sales Executive,2,10.0,9705,1,No
+46,Female,43.0,2,Research & Development,Research Scientist,3,2.0,2645,5,No
+1259,Male,27.0,2,Research & Development,Research Scientist,3,4.0,2517,5,No
+1154,Male,,3,Research & Development,Research Scientist,3,6.0,2703,3,No
+1850,Female,27.0,2,Research & Development,Laboratory Technician,4,,2379,5,No
+544,Male,45.0,2,Research & Development,Research Scientist,4,10.0,2654,2,No
+1285,Female,34.0,3,Research & Development,Laboratory Technician,2,19.0,4444,11,No
+733,Male,27.0,2,Research & Development,Manufacturing Director,1,10.0,8793,9,No
+1048,Male,59.0,2,Sales,Manager,4,1.0,11904,6,No
+1496,Male,44.0,1,Research & Development,Manufacturing Director,3,2.0,10209,2,No
+337,Male,31.0,4,Research & Development,Research Director,3,,13675,2,No
+1592,Male,23.0,3,Research & Development,Research Scientist,3,10.0,2073,2,No
+1088,Female,38.0,1,Research & Development,Healthcare Representative,3,17.0,8823,19,No
+661,Male,43.0,4,Research & Development,Research Director,4,6.0,16627,1,No
+207,Female,32.0,3,Sales,Sales Executive,4,8.0,8998,9,No
+1350,Male,,4,Research & Development,Research Scientist,3,4.0,4249,9,No
+1193,Male,19.0,2,Research & Development,Research Scientist,1,9.0,2552,1,No
+864,Male,45.0,3,Sales,Sales Executive,1,9.0,10761,5,No
+956,Male,,3,Sales,Sales Executive,1,1.0,4294,7,No
+789,Male,36.0,4,Sales,Sales Executive,1,8.0,7587,10,No
+1971,Male,43.0,3,Research & Development,Healthcare Representative,3,11.0,7510,10,No
+22,Male,22.0,2,Research & Development,Laboratory Technician,4,16.0,2935,1,No
+167,Male,19.0,1,Sales,Sales Representative,3,22.0,1675,0,Yes
+1294,Female,36.0,4,Research & Development,Manufacturing Director,2,2.0,5410,16,No
+1379,Female,31.0,3,Sales,Sales Representative,4,2.0,2785,1,Yes
+2025,Female,36.0,2,Research & Development,Manufacturing Director,2,4.0,5131,4,No
+259,Male,52.0,4,Research & Development,Manager,3,1.0,19999,33,No
+1607,Female,32.0,4,Research & Development,Research Scientist,4,,3312,3,No
+1397,Male,39.0,2,Research & Development,Healthcare Representative,3,25.0,10920,6,No
+2019,Male,52.0,4,Sales,Sales Representative,4,29.0,3482,9,No
+1720,Male,32.0,3,Research & Development,Research Scientist,3,10.0,3433,5,No
+838,Female,34.0,4,Research & Development,Research Scientist,4,16.0,2553,5,No
+246,Female,31.0,1,Research & Development,Research Scientist,4,12.0,3929,4,No
+411,Female,18.0,3,Sales,Sales Representative,3,10.0,1200,0,No
+669,Male,21.0,1,Sales,Sales Representative,3,22.0,3447,3,No
+1847,Female,36.0,4,Research & Development,Research Scientist,2,2.0,6962,1,No
+1725,Male,24.0,1,Research & Development,Laboratory Technician,1,29.0,3907,6,No
+1701,Female,34.0,3,Research & Development,Research Scientist,4,19.0,2929,10,No
+707,Male,,3,Sales,Sales Executive,2,8.0,4851,3,No
+1506,Male,,3,Research & Development,Research Scientist,3,1.0,1563,1,No
+643,Male,24.0,2,Research & Development,Laboratory Technician,2,17.0,2127,1,No
+214,Female,58.0,3,Research & Development,Research Scientist,2,9.0,3346,1,No
+21,Male,32.0,2,Research & Development,Research Scientist,2,,3298,6,No
+1513,Female,29.0,1,Research & Development,Laboratory Technician,2,2.0,3180,3,No
+749,Male,29.0,3,Sales,Sales Representative,3,10.0,2642,1,No
+913,Male,44.0,2,Research & Development,Research Scientist,1,9.0,2559,8,No
+1684,Male,23.0,1,Research & Development,Laboratory Technician,3,8.0,3989,5,Yes
+1436,Female,36.0,4,Sales,Sales Executive,1,16.0,5647,3,No
+1727,Male,46.0,4,Research & Development,Healthcare Representative,2,13.0,5562,10,No
+1346,Male,40.0,3,Research & Development,Research Scientist,4,2.0,4661,9,No
+1948,Male,31.0,2,Research & Development,Research Scientist,1,,3065,4,No
+389,Male,55.0,2,Research & Development,Laboratory Technician,4,20.0,5415,10,No
+1107,Male,,3,Research & Development,Laboratory Technician,3,21.0,2377,1,Yes
+309,Male,59.0,3,Research & Development,Research Scientist,4,,2177,1,No
+33,Female,32.0,1,Research & Development,Research Scientist,1,16.0,3919,10,Yes
+585,Male,30.0,1,Sales,Sales Representative,2,7.0,2983,3,No
+2013,Male,32.0,4,Sales,Sales Representative,2,1.0,2269,2,No
+315,Male,29.0,1,Research & Development,Research Scientist,4,18.0,2389,4,Yes
+49,Female,,3,Sales,Sales Representative,4,2.0,2014,2,No
+1038,Female,52.0,1,Sales,Manager,4,2.0,19845,32,Yes
+1474,Male,40.0,3,Research & Development,Research Scientist,3,2.0,2345,3,No
+631,Male,32.0,4,Sales,Sales Executive,3,11.0,4707,4,Yes
+1756,Female,33.0,3,Sales,Sales Executive,2,2.0,5147,11,No
+2031,Male,42.0,3,Research & Development,Manager,3,2.0,18880,22,No
+958,Male,36.0,4,Research & Development,Laboratory Technician,3,2.0,2519,11,No
+1900,Female,48.0,3,Research & Development,Manager,4,22.0,17174,22,No
+887,Female,49.0,3,Research & Development,Research Scientist,1,1.0,3580,4,No
+1778,Male,43.0,3,Human Resources,Human Resources,4,2.0,3539,9,No
+1631,Male,37.0,3,Research & Development,Manufacturing Director,3,19.0,5768,4,No
+1719,Female,45.0,2,Research & Development,Research Director,2,28.0,16704,21,No
+1873,Male,55.0,4,Research & Development,Research Scientist,4,2.0,2662,5,No
+1111,Male,,3,Research & Development,Laboratory Technician,2,1.0,2596,1,Yes
+217,Male,22.0,1,Research & Development,Research Scientist,4,19.0,2323,2,No
+1338,Male,56.0,4,Human Resources,Manager,2,8.0,19717,7,No
+1667,Male,,4,Sales,Sales Executive,4,12.0,4581,11,Yes
+1138,Male,49.0,4,Sales,Sales Executive,2,8.0,13120,9,No
+1746,Male,24.0,3,Human Resources,Human Resources,4,10.0,2145,2,No
+1228,Male,46.0,4,Research & Development,Manufacturing Director,4,2.0,7379,6,No
+1277,Female,45.0,3,Sales,Manager,2,2.0,18824,24,Yes
+205,Male,53.0,2,Sales,Sales Representative,3,6.0,2306,7,No
+1888,Female,45.0,2,Research & Development,Manufacturing Director,4,25.0,5906,9,No
+692,Male,33.0,3,Research & Development,Healthcare Representative,4,6.0,7725,13,No
+1602,Male,46.0,4,Sales,Manager,1,1.0,17567,26,No
+1728,Male,,4,Research & Development,Manufacturing Director,3,27.0,6883,7,No
+138,Female,34.0,4,Research & Development,Research Scientist,3,6.0,4809,16,No
+812,Male,24.0,3,Research & Development,Laboratory Technician,2,9.0,2694,1,No
+1826,Male,,4,Research & Development,Laboratory Technician,3,23.0,2705,5,No
+1612,Male,45.0,3,Sales,Sales Executive,1,26.0,4385,10,No
+70,Male,,2,Research & Development,Healthcare Representative,1,11.0,9884,4,No
+204,Male,,5,Sales,Sales Executive,2,1.0,7295,10,No
+534,Male,41.0,3,Sales,Sales Executive,1,1.0,8392,10,No
+2009,Female,33.0,2,Research & Development,Healthcare Representative,4,15.0,4878,9,No
+286,Female,36.0,1,Research & Development,Laboratory Technician,4,18.0,2153,8,No
+1982,Male,23.0,2,Research & Development,Laboratory Technician,4,12.0,2647,5,No
+1586,Male,29.0,1,Research & Development,Laboratory Technician,1,,4723,10,No
+12,Male,38.0,3,Research & Development,Manufacturing Director,3,23.0,9526,9,No
+1430,Female,31.0,5,Research & Development,Research Director,2,8.0,16422,3,No
+1849,Male,43.0,4,Sales,Sales Executive,4,2.0,5675,7,No
+1494,Male,24.0,3,Research & Development,Laboratory Technician,1,9.0,3172,0,Yes
+606,Male,45.0,3,Sales,Sales Executive,2,2.0,4805,8,No
+347,Female,42.0,2,Research & Development,Research Scientist,1,17.0,6545,3,No
+1252,Female,31.0,3,Research & Development,Healthcare Representative,1,24.0,6812,10,No
+1799,Male,,3,Research & Development,Research Scientist,4,1.0,2044,5,No
+1234,Female,32.0,3,Research & Development,Laboratory Technician,2,13.0,2743,2,No
+1952,Male,,3,Research & Development,Laboratory Technician,1,1.0,2867,7,No
+861,Male,30.0,4,Research & Development,Research Scientist,4,,3761,5,No
+465,Male,23.0,1,Research & Development,Research Scientist,4,26.0,2904,4,No
+1766,Male,38.0,3,Research & Development,Healthcare Representative,4,18.0,5811,1,No
+362,Male,32.0,1,Research & Development,Laboratory Technician,1,2.0,2176,6,No
+202,Female,40.0,3,Research & Development,Research Scientist,2,26.0,5605,20,No
+635,Female,37.0,4,Research & Development,Manufacturing Director,2,1.0,6447,6,No
+888,Male,24.0,1,Research & Development,Laboratory Technician,4,4.0,3162,5,No
+2048,Male,40.0,4,Research & Development,Research Scientist,3,2.0,2809,2,No
+1949,Male,36.0,4,Research & Development,Laboratory Technician,2,9.0,2810,5,No
+758,Male,23.0,1,Research & Development,Laboratory Technician,1,9.0,2500,4,No
+1295,Female,44.0,3,Research & Development,Healthcare Representative,4,15.0,7978,10,Yes
+659,Female,42.0,4,Research & Development,Healthcare Representative,4,2.0,4089,10,No
+1865,Male,29.0,1,Human Resources,Human Resources,2,6.0,2804,1,No
+1649,Male,40.0,3,Research & Development,Laboratory Technician,1,7.0,2166,4,Yes
+198,Male,30.0,1,Research & Development,Laboratory Technician,4,2.0,2720,5,No
+533,Female,30.0,3,Sales,Sales Executive,3,12.0,6577,5,No
+1334,Male,42.0,1,Research & Development,Manager,3,2.0,17861,20,No
+1943,Male,42.0,4,Sales,Sales Executive,4,12.0,5087,0,No
+916,Male,,4,Sales,Sales Executive,4,,4908,4,No
+622,Male,,3,Research & Development,Laboratory Technician,4,24.0,2340,1,Yes
+253,Female,40.0,1,Research & Development,Manager,3,4.0,19033,20,No
+1617,Female,49.0,4,Research & Development,Laboratory Technician,1,25.0,3211,9,No
+1718,Male,,4,Research & Development,Laboratory Technician,3,17.0,2305,3,No
+842,Male,55.0,1,Sales,Sales Executive,4,2.0,5160,9,Yes
+194,Female,30.0,3,Research & Development,Research Scientist,3,18.0,2632,5,No
+1040,Female,50.0,3,Sales,Sales Executive,3,1.0,6347,18,No
+1380,Female,,4,Sales,Sales Executive,3,18.0,4614,4,Yes
+270,Female,42.0,2,Research & Development,Manufacturing Director,3,21.0,5265,5,No
+1238,Male,33.0,3,Research & Development,Research Scientist,4,9.0,2781,14,No
+385,Male,50.0,1,Research & Development,Research Director,2,4.0,19144,10,No
+401,Male,,4,Sales,Sales Executive,4,4.0,5828,8,Yes
+2027,Male,29.0,4,Research & Development,Research Scientist,4,1.0,4787,2,Yes
+531,Male,39.0,1,Research & Development,Manager,3,1.0,19197,21,No
+161,Female,56.0,4,Research & Development,Research Scientist,2,14.0,4963,5,Yes
+1694,Male,55.0,3,Research & Development,Research Scientist,2,22.0,3537,4,No
+277,Male,34.0,4,Research & Development,Research Scientist,3,10.0,3815,5,No
+1164,Male,,4,Human Resources,Human Resources,3,8.0,4323,5,No
+338,Female,33.0,4,Research & Development,Research Scientist,4,,2911,2,No
+1967,Male,31.0,4,Sales,Sales Executive,4,26.0,5617,10,Yes
+1947,Male,,3,Research & Development,Research Scientist,3,16.0,2144,5,No
+1624,Female,18.0,2,Sales,Sales Representative,4,,1569,0,Yes
+513,Male,36.0,2,Sales,Sales Executive,3,2.0,7596,10,No
+1816,Female,30.0,3,Research & Development,Manufacturing Director,3,10.0,9667,7,No
+1195,Female,45.0,3,Research & Development,Research Scientist,3,7.0,4477,3,No
+303,Female,54.0,3,Sales,Sales Executive,1,,5940,6,No
+889,Male,32.0,2,Sales,Sales Executive,2,,6524,10,No
+2,Male,49.0,1,Research & Development,Research Scientist,2,8.0,5130,10,No
+148,Female,54.0,3,Human Resources,Manager,4,26.0,17328,5,No
+975,Female,,3,Sales,Sales Executive,3,18.0,4601,5,No
+1974,Female,31.0,1,Research & Development,Laboratory Technician,4,2.0,1129,1,No
+1329,Male,41.0,2,Sales,Sales Executive,2,10.0,6151,19,No
+1809,Male,37.0,4,Research & Development,Manufacturing Director,1,10.0,4213,10,Yes
+1862,Male,32.0,4,Sales,Sales Executive,2,2.0,9907,2,Yes
+591,Male,42.0,2,Research & Development,Laboratory Technician,3,,2093,2,No
+1604,Male,,3,Research & Development,Laboratory Technician,2,24.0,2408,1,Yes
+1760,Female,38.0,2,Research & Development,Laboratory Technician,2,2.0,2468,6,No
+923,Female,21.0,1,Research & Development,Research Scientist,4,18.0,2693,1,Yes
+1886,Female,,2,Research & Development,Manufacturing Director,2,16.0,4788,3,No
+1761,Male,31.0,4,Sales,Sales Executive,3,16.0,8161,1,Yes
+1829,Female,40.0,3,Research & Development,Healthcare Representative,1,12.0,4448,7,No
+433,Male,52.0,4,Research & Development,Research Scientist,2,8.0,4941,8,Yes
+900,Female,37.0,2,Sales,Sales Representative,4,21.0,2973,5,No
+991,Male,31.0,2,Research & Development,Research Scientist,1,9.0,2321,3,Yes
+1798,Male,33.0,4,Research & Development,Research Scientist,1,8.0,3143,10,No
+1368,Female,18.0,3,Research & Development,Laboratory Technician,4,1.0,1611,0,No
+867,Female,52.0,4,Research & Development,Manufacturing Director,4,25.0,13826,9,No
+875,Male,42.0,1,Research & Development,Research Scientist,4,2.0,2515,2,No
+1751,Female,27.0,3,Research & Development,Research Scientist,4,8.0,3445,6,No
+2017,Female,37.0,3,Research & Development,Research Director,4,10.0,13744,16,No
+1757,Female,49.0,4,Sales,Sales Executive,4,11.0,4507,5,No
+1909,Female,41.0,3,Sales,Sales Executive,2,8.0,4393,5,No
+1105,Female,37.0,4,Sales,Sales Executive,4,10.0,6694,1,No
+896,Female,29.0,3,Sales,Sales Representative,3,1.0,2800,3,Yes
+1427,Female,31.0,4,Sales,Sales Representative,3,1.0,1359,1,Yes
+769,Male,53.0,3,Research & Development,Laboratory Technician,4,6.0,2450,2,No
+950,Female,38.0,3,Research & Development,Research Director,1,1.0,13582,15,No
+802,Female,37.0,1,Research & Development,Research Scientist,1,10.0,2782,5,No
+1568,Male,30.0,4,Sales,Sales Executive,2,29.0,9250,4,No
+1772,Male,41.0,4,Research & Development,Laboratory Technician,1,9.0,2289,5,No
+1664,Male,36.0,2,Research & Development,Healthcare Representative,1,,6842,5,No
+717,Female,34.0,3,Research & Development,Healthcare Representative,2,9.0,8621,8,No
+1492,Male,,1,Sales,Sales Representative,3,7.0,2404,1,No
+741,Female,,2,Research & Development,Research Scientist,2,1.0,2216,7,Yes
+1676,Female,47.0,4,Sales,Manager,2,2.0,15972,3,No
+1037,Male,,2,Sales,Sales Executive,1,29.0,4969,2,Yes
+1915,Female,34.0,1,Sales,Sales Executive,4,,8103,4,No
+653,Male,31.0,4,Sales,Sales Executive,4,6.0,5460,7,No
+126,Female,54.0,4,Research & Development,Research Director,3,2.0,13549,4,No
+1438,Male,47.0,3,Research & Development,Research Scientist,4,1.0,3420,6,No
+781,Female,,1,Sales,Sales Executive,4,26.0,6180,6,No
+1770,Male,55.0,3,Research & Development,Research Director,1,2.0,19038,1,No
+1030,Male,50.0,3,Research & Development,Laboratory Technician,4,9.0,2380,1,No
+1207,Male,33.0,3,Human Resources,Human Resources,3,2.0,3600,5,No
+1246,Female,44.0,1,Research & Development,Research Scientist,4,2.0,2011,10,No
+1466,Male,48.0,3,Sales,Sales Executive,1,7.0,5486,2,No
+284,Male,22.0,3,Research & Development,Research Scientist,2,,2328,4,No
+522,Male,54.0,2,Research & Development,Research Director,1,,19406,4,No
+1103,Male,34.0,1,Research & Development,Healthcare Representative,4,,7756,6,No
+1218,Male,,4,Sales,Sales Executive,1,17.0,8966,7,No
+527,Female,,2,Sales,Sales Executive,4,4.0,4487,5,No
+1061,Male,50.0,4,Research & Development,Research Director,3,2.0,19237,8,No
+1893,Female,,2,Research & Development,Research Scientist,3,1.0,2933,1,No
+1739,Male,32.0,3,Sales,Sales Executive,3,19.0,9610,4,No
+1448,Male,41.0,5,Research & Development,Research Scientist,3,,2127,4,No
+893,Male,38.0,3,Sales,Sales Representative,2,9.0,2899,2,No
+846,Female,,4,Sales,Sales Executive,2,2.0,4779,8,No
+1349,Female,41.0,3,Sales,Sales Executive,1,1.0,4103,9,No
+1010,Male,,4,Research & Development,Laboratory Technician,2,14.0,3743,4,Yes
+952,Male,,2,Sales,Sales Representative,2,19.0,2413,1,Yes
+131,Male,58.0,4,Sales,Sales Executive,3,10.0,13872,37,No
+1116,Male,48.0,4,Research & Development,Manager,4,1.0,16885,5,No
+543,Male,52.0,3,Research & Development,Manufacturing Director,3,,7969,5,No
+682,Female,53.0,1,Sales,Sales Executive,1,1.0,8381,14,No
+1509,Female,49.0,2,Research & Development,Laboratory Technician,1,,4789,3,No
+1486,Male,,3,Sales,Sales Representative,3,1.0,2909,3,Yes
+1296,Male,,3,Research & Development,Laboratory Technician,4,2.0,3867,2,No
+1081,Male,51.0,4,Research & Development,Research Scientist,3,4.0,2461,10,Yes
+274,Male,27.0,1,Research & Development,Manufacturing Director,1,1.0,4298,2,No
+177,Female,,1,Human Resources,Human Resources,3,25.0,2942,8,No
+1481,Female,44.0,5,Sales,Sales Executive,3,1.0,4768,1,No
+53,Male,,2,Research & Development,Laboratory Technician,4,4.0,1951,1,No
+1434,Male,27.0,1,Research & Development,Laboratory Technician,1,11.0,2099,5,No
+316,Female,52.0,3,Research & Development,Laboratory Technician,4,2.0,3212,2,No
+502,Male,34.0,3,Sales,Sales Executive,4,19.0,5304,5,Yes
+394,Male,,4,Research & Development,Laboratory Technician,2,16.0,2373,3,Yes
+560,Female,,3,Research & Development,Research Scientist,4,23.0,2886,3,No
+521,Female,40.0,3,Research & Development,Laboratory Technician,3,2.0,3448,1,No
+820,Female,47.0,2,Research & Development,Manager,4,2.0,16752,26,No
+1639,Male,,3,Sales,Sales Executive,1,10.0,10306,13,Yes
+1539,Male,50.0,5,Research & Development,Research Director,4,22.0,14411,32,No
+899,Male,,3,Research & Development,Manufacturing Director,2,25.0,10903,13,No
+1623,Male,21.0,1,Research & Development,Research Scientist,4,,3117,2,No
+1931,Male,27.0,4,Research & Development,Research Scientist,2,2.0,2226,5,No
+712,Male,48.0,1,Sales,Sales Executive,2,2.0,8120,2,No
+83,Female,36.0,3,Research & Development,Healthcare Representative,3,8.0,10096,17,No
+19,Male,,3,Research & Development,Laboratory Technician,3,24.0,2028,4,Yes
+1659,Male,36.0,3,Research & Development,Laboratory Technician,2,7.0,2013,4,No
+1499,Male,30.0,3,Human Resources,Human Resources,3,1.0,2064,5,No
+664,Female,48.0,4,Research & Development,Manager,1,1.0,15402,3,No
+505,Female,55.0,3,Research & Development,Manager,4,2.0,16659,5,No
+254,Male,55.0,4,Research & Development,Research Director,2,14.0,18722,24,No
+1055,Female,34.0,4,Sales,Sales Representative,3,10.0,2220,1,No
+299,Female,30.0,4,Sales,Sales Executive,1,26.0,6696,6,Yes
+1100,Male,,3,Sales,Sales Executive,1,4.0,9582,8,Yes
+1520,Female,54.0,4,Research & Development,Manager,4,11.0,16032,14,No
+1231,Male,42.0,5,Human Resources,Human Resources,1,2.0,6272,4,No
+455,Male,29.0,5,Research & Development,Laboratory Technician,4,9.0,3983,3,No
+1003,Female,47.0,2,Sales,Sales Executive,4,4.0,4163,9,No
+404,Female,42.0,3,Sales,Sales Executive,2,26.0,13525,20,No
+1433,Female,31.0,3,Research & Development,Research Scientist,2,8.0,1261,1,Yes
+1786,Female,51.0,3,Research & Development,Manager,3,,13116,2,No
+612,Female,33.0,5,Research & Development,Research Director,3,1.0,16184,6,No
+2062,Male,39.0,1,Research & Development,Healthcare Representative,1,6.0,9991,7,No
+1131,Female,21.0,1,Research & Development,Research Scientist,2,1.0,2070,2,No
+373,Male,36.0,3,Research & Development,Laboratory Technician,4,6.0,3210,15,No
+1402,Female,43.0,3,Research & Development,Research Scientist,3,6.0,4081,20,No
+275,Male,49.0,4,Research & Development,Manufacturing Director,4,18.0,6804,7,No
+218,Male,27.0,3,Research & Development,Research Scientist,2,9.0,2024,2,No
+1014,Female,,4,Research & Development,Healthcare Representative,3,25.0,10388,16,No
+532,Female,56.0,3,Sales,Sales Executive,1,6.0,13212,7,No
+982,Male,30.0,2,Sales,Sales Executive,3,8.0,7264,8,No
+1595,Male,42.0,2,Research & Development,Manager,4,9.0,19613,1,No
+784,Male,23.0,1,Research & Development,Research Scientist,3,10.0,3505,2,No
+1439,Male,,2,Sales,Sales Representative,1,9.0,4400,3,Yes
+1445,Female,24.0,1,Sales,Sales Executive,3,4.0,4162,5,No
+1558,Male,29.0,3,Research & Development,Research Scientist,3,9.0,2451,1,No
+283,Female,29.0,3,Sales,Sales Executive,4,27.0,7639,10,Yes
+45,Male,24.0,3,Research & Development,Research Scientist,4,1.0,2293,2,Yes
+1076,Male,43.0,3,Sales,Sales Executive,4,25.0,10798,1,No
+691,Male,,4,Research & Development,Research Scientist,4,6.0,6646,17,No
+2035,Female,34.0,3,Sales,Sales Executive,3,28.0,6712,8,No
+1960,Male,,3,Research & Development,Laboratory Technician,4,17.0,2367,4,Yes
+120,Male,51.0,4,Sales,Sales Executive,4,21.0,5441,10,No
+1924,Male,33.0,4,Sales,Sales Executive,3,10.0,5487,10,No
+1254,Female,59.0,3,Sales,Sales Executive,4,,5171,6,No
+783,Male,45.0,2,Sales,Sales Representative,3,2.0,6632,8,No
+1933,Female,,2,Sales,Sales Executive,3,13.0,9854,2,Yes
+1077,Female,20.0,3,Sales,Sales Representative,4,9.0,2323,2,Yes
+333,Male,32.0,4,Sales,Sales Executive,4,26.0,4465,3,No
+18,Male,34.0,2,Research & Development,Laboratory Technician,4,19.0,2661,2,No
+430,Female,43.0,4,Research & Development,Laboratory Technician,4,10.0,2455,8,No
+830,Female,32.0,3,Research & Development,Manufacturing Director,3,4.0,6162,14,No
+516,Female,40.0,2,Sales,Sales Executive,2,2.0,5715,5,No
+1818,Female,,2,Human Resources,Human Resources,2,20.0,2148,5,Yes
+227,Male,41.0,3,Research & Development,Research Scientist,3,14.0,2451,9,No
+1172,Male,,4,Research & Development,Laboratory Technician,3,1.0,2258,8,No
+26,Female,24.0,2,Research & Development,Manufacturing Director,3,11.0,4011,4,No
+897,Male,53.0,3,Sales,Sales Executive,4,8.0,11836,2,No
+1625,Female,47.0,4,Human Resources,Manager,3,26.0,19658,5,No
+1160,Male,31.0,3,Research & Development,Laboratory Technician,3,15.0,2610,2,Yes
+1774,Male,34.0,3,Sales,Sales Executive,3,10.0,4001,15,No
+780,Male,33.0,4,Research & Development,Research Scientist,4,1.0,2686,10,Yes
+2016,Female,32.0,4,Sales,Sales Executive,4,1.0,10422,14,No
+957,Male,41.0,3,Research & Development,Laboratory Technician,1,6.0,4721,18,No
+1340,Male,40.0,2,Research & Development,Research Scientist,3,16.0,3544,4,No
+258,Female,51.0,3,Research & Development,Healthcare Representative,2,,13734,7,No
+1372,Male,55.0,4,Sales,Sales Executive,3,13.0,13695,19,Yes
+976,Male,52.0,2,Research & Development,Manager,4,1.0,17099,9,No
+698,Male,54.0,4,Human Resources,Human Resources,2,19.0,10725,9,No
+1533,Male,23.0,1,Research & Development,Laboratory Technician,3,20.0,2272,4,No
+639,Male,24.0,3,Research & Development,Research Scientist,4,23.0,2725,6,No
+1198,Male,20.0,3,Research & Development,Laboratory Technician,3,,3033,2,No
+1036,Male,38.0,4,Sales,Sales Executive,4,,6861,1,No
+346,Male,29.0,3,Research & Development,Research Scientist,4,15.0,2340,6,No
+27,Male,36.0,4,Sales,Sales Representative,1,9.0,3407,5,Yes
+1875,Female,,3,Sales,Sales Representative,2,,2856,1,No
+616,Female,41.0,4,Research & Development,Healthcare Representative,3,2.0,6811,8,No
+1665,Female,54.0,5,Research & Development,Manager,3,22.0,17426,10,No
+381,Female,,3,Research & Development,Manager,2,22.0,11996,7,No
+1336,Female,55.0,2,Research & Development,Manager,3,2.0,19187,19,No
+1704,Male,,4,Research & Development,Research Scientist,4,2.0,4930,5,No
+514,Male,30.0,3,Research & Development,Research Scientist,4,4.0,2285,1,Yes
+1117,Female,45.0,4,Sales,Sales Executive,3,9.0,5593,15,No
+2022,Male,39.0,3,Research & Development,Manager,4,9.0,19431,6,No
+463,Female,29.0,1,Sales,Sales Executive,2,10.0,8268,7,No
+1068,Female,,1,Research & Development,Research Scientist,3,1.0,2007,5,No
+1868,Male,29.0,2,Research & Development,Research Scientist,4,24.0,2439,1,Yes
+171,Female,43.0,3,Research & Development,Research Scientist,3,28.0,4739,3,No
+1219,Female,24.0,2,Research & Development,Laboratory Technician,2,17.0,2210,1,Yes
+1587,Female,,4,Research & Development,Healthcare Representative,3,10.0,6142,5,No
+1968,Male,53.0,4,Sales,Sales Executive,1,24.0,10448,2,Yes
+116,Male,51.0,4,Research & Development,Laboratory Technician,4,9.0,2075,4,No
+448,Female,43.0,4,Research & Development,Laboratory Technician,3,10.0,5257,9,No
+1735,Female,23.0,1,Research & Development,Laboratory Technician,2,4.0,3295,3,No
+625,Female,41.0,5,Sales,Manager,1,2.0,16595,18,No
+160,Male,33.0,2,Sales,Sales Executive,2,22.0,6146,7,No
+1473,Male,49.0,4,Research & Development,Healthcare Representative,3,,6651,3,No
+1549,Male,33.0,4,Research & Development,Laboratory Technician,3,28.0,5207,15,No
+1596,Male,,3,Research & Development,Laboratory Technician,3,28.0,3407,10,No
+1814,Male,41.0,3,Research & Development,Healthcare Representative,2,,6870,3,No
+1203,Male,22.0,4,Research & Development,Research Scientist,4,,2853,0,Yes
+2053,Male,29.0,2,Research & Development,Laboratory Technician,2,13.0,4025,4,No
+1591,Male,50.0,3,Sales,Manager,3,9.0,19331,1,No
